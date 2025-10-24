@@ -1,0 +1,5 @@
+{
+  "name": "Rubric@sEBP",
+  "description": "Una aplicación para generar rúbricas de evaluación para Educación Secundaria en la Región de Murcia utilizando la API de Gemini. Ayuda a los educadores a crear criterios de evaluación claros y estructurados.",
+  "requestFramePermissions": []
+}
